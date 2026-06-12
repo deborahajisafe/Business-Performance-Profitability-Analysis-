@@ -109,6 +109,8 @@ Although revenue continued to grow over the four-year period, management needed 
 
 The analysis revealed that Superstore Giant's primary challenge is not revenue generation but discount management. Addressing excessive discounting alone could significantly improve profitability without requiring additional sales growth.
 
+"For a detailed analysis and recommendations, see the full project report - Superstore_Portfolio_Report.pdf "
+
 ## Author
 
 Ajisafe Deborah
