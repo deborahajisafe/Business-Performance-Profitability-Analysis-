@@ -1,8 +1,6 @@
 # Business-Performance-Profitability-Analysis-
 Analysis of sales performance, profitability drivers, customer behavior, and the impact of discounting on business outcomes 
 
-# Superstore Sales & Profitability Analysis
-
 ## Project Overview
 
 This project analyzes four years of retail sales data (2014–2017) for a fictional retail company, Superstore Giant. The objective was to evaluate sales performance, identify profitability drivers, and uncover operational issues affecting business growth.
